@@ -1,0 +1,136 @@
+INFO:comtypes.client._code_cache:Could not import comtypes.gen, trying to create it.
+INFO:comtypes.client._code_cache:Created comtypes.gen directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:comtypes.client._code_cache:Writing __init__.py file: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen\__init__.py'
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:comtypes.client._generate:Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+INFO:comtypes.client._generate:# Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+INFO:comtypes.client._generate:# Generating comtypes.gen.SpeechLib
+INFO:comtypes.client._generate:Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+INFO:comtypes.client._generate:# Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+INFO:comtypes.client._generate:# Generating comtypes.gen.stdole
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.44 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.12 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.08 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.10 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.18 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.20 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.14 secondes
+INFO:root:Enregistrement audio a pris 4.99 secondes
+INFO:root:Sauvegarde audio a pris 0.01 secondes
+INFO:root:Transcription audio a pris 6.44 secondes
+INFO:root:Reconnaissance vocale totale a pris 11.43 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 0.78 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.04 secondes
+INFO:root:Enregistrement audio a pris 4.83 secondes
+INFO:root:Sauvegarde audio a pris 0.00 secondes
+INFO:root:Transcription audio a pris 2.03 secondes
+INFO:root:Reconnaissance vocale totale a pris 6.86 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 0.55 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.05 secondes
+INFO:root:Enregistrement audio a pris 4.76 secondes
+INFO:root:Sauvegarde audio a pris 0.01 secondes
+INFO:root:Transcription audio a pris 2.32 secondes
+INFO:root:Reconnaissance vocale totale a pris 7.10 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+INFO:groq._base_client:Retrying request to /openai/v1/chat/completions in 0.767243 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 22.00 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.28 secondes
+WARNING:huggingface_hub.file_download:Error while downloading from https://cdn-lfs-us-1.huggingface.co/repos/dd/4c/dd4c0231b94d7b0b5607dce82d172f8d98413d39e28d0894b14e121fae19ef49/065e3775409aa2fb0e6893a91f7210d3f4c930536ab79acaa56dafbf7be3a475?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1718366977&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxODM2Njk3N319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmh1Z2dpbmdmYWNlLmNvL3JlcG9zL2RkLzRjL2RkNGMwMjMxYjk0ZDdiMGI1NjA3ZGNlODJkMTcyZjhkOTg0MTNkMzllMjhkMDg5NGIxNGUxMjFmYWUxOWVmNDkvMDY1ZTM3NzU0MDlhYTJmYjBlNjg5M2E5MWY3MjEwZDNmNGM5MzA1MzZhYjc5YWNhYTU2ZGFmYmY3YmUzYTQ3NT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=UTIoahp-Zo4O3R0T94Edtcx0uX2iFNI0zmKsannSTA5WBMn-uXUbEUy-ovLjOMZ9-7UrRSQER5l52oThQL%7EGB-f40jRo-YksTXU-2gg67R-xN6a7deOCWEMrCfZjch-hOhAuYtjkDPSAZ0tw9SZo1O0yx4AenlLE-sH3JQbkikEPiumjAz9Zy%7EnvrZSeq9NmFYoVKlS2U3t0aYY7dJUTaQD2YxSwq1OicrF5lfxvRjB4MQboyPKtOfetLqUIgb3kwdNdyK56fJRaf9m-hJLGFpg722wmyoyQidKqBW5rckroGCQCi-xSK31UU-Q%7EGkQHUBN0jJnaFNDGdBtuqPrEQQ__&Key-Pair-Id=KCD77M1F0VK2B: HTTPSConnectionPool(host='cdn-lfs-us-1.huggingface.co', port=443): Read timed out.
+Trying to resume download...
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.46 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.10 secondes
+INFO:root:Reconnaissance vocale totale a pris 31.12 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 3.37 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 54.45 secondes
+INFO:root:Temps de réponse total a pris 57.85 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.30 secondes
+INFO:root:Enregistrement audio a pris 4.14 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.29 secondes
+INFO:root:Enregistrement audio a pris 4.10 secondes
+INFO:root:Transcription audio a pris 18.45 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 0.64 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 15.94 secondes
+INFO:root:Temps de réponse total a pris 16.59 secondes
+INFO:root:Enregistrement audio a pris 3.07 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 4.41 secondes
+INFO:root:Enregistrement audio a pris 4.12 secondes
+INFO:root:Transcription audio a pris 34.37 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 0.67 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.75 secondes
+INFO:root:Enregistrement audio a pris 4.14 secondes
+INFO:root:Transcription audio a pris 19.06 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 3.01 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 9.44 secondes
+INFO:root:Temps de réponse total a pris 12.46 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.55 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 2.94 secondes
+INFO:root:Enregistrement audio a pris 3.28 secondes
+INFO:root:Enregistrement audio a pris 4.13 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.27 secondes
+INFO:root:Enregistrement audio a pris 4.11 secondes
+INFO:root:Transcription audio a pris 15.93 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 3.61 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 14.77 secondes
+INFO:root:Temps de réponse total a pris 18.38 secondes
+INFO:root:Enregistrement audio a pris 4.09 secondes
+INFO:root:Transcription audio a pris 15.15 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 2.91 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 4.00 secondes
+INFO:root:Enregistrement audio a pris 4.17 secondes
+INFO:root:Transcription audio (Whisper) a pris 10.20 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 1.66 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\micro\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\micro\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 0.64 secondes
+INFO:root:Temps de réponse total a pris 0.64 secondes
